@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Basant Rauniyar</h1>
-<h3 align="center">🎓 B.Tech Student | Future Software Developer | ML & Cybersecurity Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm Man Bahadure Thapa</h1>
+<h3 align="center">🎓 B.Tech Student | Future Cybersecurity Professional | ML & Cybersecurity Enthusiast</h3>
 
 ---
 <p align="left">
@@ -17,25 +17,24 @@
 ## 🚀 Projects & Categories
 
 ### 🧠 Machine Learning & Web Applications
-- [**AgriRec**](https://github.com/basantrauniyar15/AgriRec-Decision-Tree-Based-Agricultural-Crop-Recommendation-with-Web-Platform-Integration) – Crop Recommendation System (ML + Flask UI)  
-- [**CardioVisionary**](https://github.com/basantrauniyar15/CardioVisionary-Boosting-Based-Cardiac-Disease-Prediction-using-ML-Techniques) – Heart Disease Prediction (ML + Flask UI)  
-- [**SRS Analyzer**](https://github.com/basantrauniyar15/Software-Requirement-Specification-Document-Analysis-and-Parameter-Identification-Using-ML) – Software Document Parameter Extraction (ML + Flask UI)  
+- [**AgriRec**](https://github.com/meliodas-sama1248/AgriRec-Decision-Tree-Based-Agricultural-Crop-Recommendation-with-Web-Platform-Integration) – Crop Recommendation System (ML + Flask UI)  
+- [**CardioVisionary**](https://github.com/meliodas-sama1248/CardioVisionary-Boosting-Based-Cardiac-Disease-Prediction-using-ML-Techniques-) – Heart Disease Prediction (ML + Flask UI)  
+- [**SRS Analyzer**](https://github.com/meliodas-sama1248/Software-Requirement-Specification-Document-Analysis-and-Parameter-Identification-Using-ML) – Software Document Parameter Extraction (ML + Flask UI)  
 
 ### 🔐 Cybersecurity & Safe Browsing Extensions
-- [**AgeGuard**](https://github.com/basantrauniyar15/AgeGuard-Advanced-18-Content-Blocking-and-Safe-Browsing-Extension) – Age-Restricted Content Blocking Extension  
-- [**SecureLogger**](https://github.com/basantrauniyar15/SecureLogger-AI-Enhanced-Keystroke-Monitoring-Protection) – Keystroke Monitoring & Protection  
-- [**ShieldPass**](https://github.com/basantrauniyar15/ShieldPass-Secure-Password-Storage-with-Real-Time-Breach-Warnings) – Secure Password Storage with Breach Alerts  
+- [**AgeGuard**](https://github.com/meliodas-sama1248/Age-Restricted-Content-Filtering-Using-Face-Recognition) – Age-Restricted Content Blocking Extension  
+- [**SecureLogger**](https://github.com/meliodas-sama1248/SecureLogger-AI-Enhanced-Keystroke-Monitoring-Protection) – Keystroke Monitoring & Protection  
+- [**ShieldPass**](https://github.com/meliodas-sama1248/ShieldPass-Secure-Password-Storage-with-Real-Time-Breach-Warnings) – Secure Password Storage with Breach Alerts  
 
 ### 🌐 Browser Extensions & Motion Detection
-- [**Motion Detector Extension**](https://github.com/basantrauniyar15/Motion-Detector-Chrome-Extension) – Detects Motion in Browser using a Chrome Extension  
-- [**SafeBrowse**](https://github.com/basantrauniyar15/SafeBrowse-Real-Time-Malicious-URL-Detector) – Real-Time Malicious URL Detection  
+- [**Motion Detector Extension**](https://github.com/meliodas-sama1248/Motion-Detector-Chrome-Extension) – Detects Motion in Browser using a Chrome Extension  
+- [**SafeBrowse**](https://github.com/meliodas-sama1248/SafeBrowse-Real-Time-Malicious-URL-Detector) – Real-Time Malicious URL Detection  
 
 ### 🔑 Authentication & Secure Login Systems
-- [**SecureLogin**](https://github.com/basantrauniyar15/Secure-Login-System-with-Multi-Factor-Authentication-MFA-Using-Flask) – Multi-Factor Authentication (MFA) System  
+- [**SecureLogin**](https://github.com/meliodas-sama1248/Secure-Login-System-with-Multi-Factor-Authentication-MFA-Using-Flask) – Multi-Factor Authentication (MFA) System  
 
 ### 🗣 Automation & Smart Assistants
-- [**PatanHelper**](https://github.com/basantrauniyar15/PatanHelper) – Hospital Information Chatbot  
-- [**Friday Voice Assistant**](https://github.com/basantrauniyar15/Friday-Voice-Assistant) – Voice-Controlled AI Assistant  
+- [**Friday Voice Assistant**](https://github.com/meliodas-sama1248/Friday-Voice-Assistant) – Voice-Controlled AI Assistant  
 
 ---
 ## ⚙️ Tech Stack & Tools  
@@ -64,9 +63,9 @@
 ---
 
 ## 📬 Connect With Me 
-📧 **Email:** [basantrauniyar15@gmail.com](mailto:basantrauniyar15@gmail.com)  
-💼 **LinkedIn:** [basantrauniyar](https://www.linkedin.com/in/basantrauniyar/)  
-🐱 **GitHub:** [basantrauniyar15](https://github.com/basantrauniyar15)  
+📧 **Email:** [thaparitik45@gmail.com](mailto:thaparitik45@gmail.com)  
+💼 **LinkedIn:** [Man Bahadur Thapa](https://www.linkedin.com/in/man-bahadur-thapa/)  
+🐱 **GitHub:** [meliodas-sama1248](https://github.com/meliodas-sama1248)  
 
 ---
 
