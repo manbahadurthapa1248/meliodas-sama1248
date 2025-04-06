@@ -3,7 +3,7 @@
 
 ---
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=basantrauniyar15&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=meliodas-sama1248&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
 </p>
 
 ## 🔹 About Me
