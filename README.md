@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Man Bahadure Thapa</h1>
+<h1 align="center">👋 Hi, I'm Man Bahadur Thapa</h1>
 <h3 align="center">🎓 B.Tech Student | Future Cybersecurity Professional | ML & Cybersecurity Enthusiast</h3>
 
 ---
