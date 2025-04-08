@@ -3,7 +3,7 @@
 
 ---
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=meliodas-sama1248&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=manbahadurthapa1248&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
 </p>
 
 ## 🔹 About Me
@@ -17,24 +17,24 @@
 ## 🚀 Projects & Categories
 
 ### 🧠 Machine Learning & Web Applications
-- [**AgriRec**](https://github.com/meliodas-sama1248/AgriRec-Decision-Tree-Based-Agricultural-Crop-Recommendation-with-Web-Platform-Integration) – Crop Recommendation System (ML + Flask UI)  
-- [**CardioVisionary**](https://github.com/meliodas-sama1248/CardioVisionary-Boosting-Based-Cardiac-Disease-Prediction-using-ML-Techniques-) – Heart Disease Prediction (ML + Flask UI)  
-- [**SRS Analyzer**](https://github.com/meliodas-sama1248/Software-Requirement-Specification-Document-Analysis-and-Parameter-Identification-Using-ML) – Software Document Parameter Extraction (ML + Flask UI)  
+- [**AgriRec**](https://github.com/manbahadurthapa1248/AgriRec-Decision-Tree-Based-Agricultural-Crop-Recommendation-with-Web-Platform-Integration) – Crop Recommendation System (ML + Flask UI)  
+- [**CardioVisionary**](https://github.com/manbahadurthapa1248/CardioVisionary-Boosting-Based-Cardiac-Disease-Prediction-using-ML-Techniques-) – Heart Disease Prediction (ML + Flask UI)  
+- [**SRS Analyzer**](https://github.com/manbahadurthapa1248/Software-Requirement-Specification-Document-Analysis-and-Parameter-Identification-Using-ML) – Software Document Parameter Extraction (ML + Flask UI)  
 
 ### 🔐 Cybersecurity & Safe Browsing Extensions
-- [**AgeGuard**](https://github.com/meliodas-sama1248/Age-Restricted-Content-Filtering-Using-Face-Recognition) – Age-Restricted Content Blocking Extension  
-- [**SecureLogger**](https://github.com/meliodas-sama1248/SecureLogger-AI-Enhanced-Keystroke-Monitoring-Protection) – Keystroke Monitoring & Protection  
-- [**ShieldPass**](https://github.com/meliodas-sama1248/ShieldPass-Secure-Password-Storage-with-Real-Time-Breach-Warnings) – Secure Password Storage with Breach Alerts  
+- [**AgeGuard**](https://github.com/manbahadurthapa1248/Age-Restricted-Content-Filtering-Using-Face-Recognition) – Age-Restricted Content Blocking Extension  
+- [**SecureLogger**](https://github.com/manbahadurthapa1248/SecureLogger-AI-Enhanced-Keystroke-Monitoring-Protection) – Keystroke Monitoring & Protection  
+- [**ShieldPass**](https://github.com/manbahadurthapa1248/ShieldPass-Secure-Password-Storage-with-Real-Time-Breach-Warnings) – Secure Password Storage with Breach Alerts  
 
 ### 🌐 Browser Extensions & Motion Detection
-- [**Motion Detector Extension**](https://github.com/meliodas-sama1248/Motion-Detector-Chrome-Extension) – Detects Motion in Browser using a Chrome Extension  
-- [**SafeBrowse**](https://github.com/meliodas-sama1248/SafeBrowse-Real-Time-Malicious-URL-Detector) – Real-Time Malicious URL Detection  
+- [**Motion Detector Extension**](https://github.com/manbahadurthapa1248/Motion-Detector-Chrome-Extension) – Detects Motion in Browser using a Chrome Extension  
+- [**SafeBrowse**](https://github.com/manbahadurthapa1248/SafeBrowse-Real-Time-Malicious-URL-Detector) – Real-Time Malicious URL Detection  
 
 ### 🔑 Authentication & Secure Login Systems
-- [**SecureLogin**](https://github.com/meliodas-sama1248/Secure-Login-System-with-Multi-Factor-Authentication-MFA-Using-Flask) – Multi-Factor Authentication (MFA) System  
+- [**SecureLogin**](https://github.com/manbahadurthapa1248/Secure-Login-System-with-Multi-Factor-Authentication-MFA-Using-Flask) – Multi-Factor Authentication (MFA) System  
 
 ### 🗣 Automation & Smart Assistants
-- [**Friday Voice Assistant**](https://github.com/meliodas-sama1248/Friday-Voice-Assistant) – Voice-Controlled AI Assistant  
+- [**Friday Voice Assistant**](https://github.com/manbahadurthapa1248/Friday-Voice-Assistant) – Voice-Controlled AI Assistant  
 
 ---
 ## ⚙️ Tech Stack & Tools  
@@ -65,7 +65,7 @@
 ## 📬 Connect With Me 
 📧 **Email:** [thaparitik45@gmail.com](mailto:thaparitik45@gmail.com)  
 💼 **LinkedIn:** [Man Bahadur Thapa](https://www.linkedin.com/in/man-bahadur-thapa/)  
-🐱 **GitHub:** [meliodas-sama1248](https://github.com/meliodas-sama1248)  
+🐱 **GitHub:** [manbahadurthapa1248](https://github.com/manbahadurthapa1248)  
 
 ---
 
